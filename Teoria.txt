@@ -1,0 +1,13 @@
+* Selector Universal
+# Selector por ID
+.class Selector por clase
+Header, Nav.. ETC.. Selector por Defecto (Seleccion de uno por uno)
+[a] Selector para seleccionar un atributo (NO CONFUNDIR CON ELEMENTOS)
+	por ejemeplo.. blockquote[cite]// Aqui estoy diciendo que seleccione
+					el atributo CITE del ELEMENTO BLOCKQUOTE
+
+margin Espaciado Exterior
+padding Espaciado Interior
+
+display: flex; permite organizar todos los elementos
+justify-content: space-beetwen; utiliza todo el espacio posible
